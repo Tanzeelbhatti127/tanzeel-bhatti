@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Filmify",
+    "imageSrc": "projects/project.png",
+    "description": "This is a movie website, where users can search for movies. I utilized the OMDB API to fetch data.",
+    "skills": ["React", "CSS", "OMDB API"],
+    "demo": "",
+    "source": "https://github.com/Tanzeelbhatti127/filmiFy.git"
+  },
+  {
+    "title": "Calculator",
+    "imageSrc": "projects/project2.png",
+    "description": "Showcasing web development skills with a simple calculator application.",
+    "skills": ["Html", "Css", "JavaScript"],
+    "demo": "",
+    "source": "https://github.com/Tanzeelbhatti127/CodSoft.git"
+  },
+  {
+    "title": "Weather wise",
+    "imageSrc": "projects/project3.png",
+    "description": "A react weather application that provides current and forecasted weather conditions worldwide.",
+    "skills": ["React", "Css", "GeoCoding API"],
+    "demo": "",
+    "source": "https://github.com/Tanzeelbhatti127/weather-wise.git"
+  }
+]
